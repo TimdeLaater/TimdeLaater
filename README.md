@@ -1,2 +1,2 @@
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimdeLaater?exclude_repo=DataScience&hide=css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimdeLaater?&hide=css,scss,html,jupyter-notebook&theme=tokyonight)
